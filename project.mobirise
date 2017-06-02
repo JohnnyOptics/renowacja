@@ -137,7 +137,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/odnawianie-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -165,16 +165,16 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/przed-po-2000x1327.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/istock-000087208411-full-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "PRZED / PO&nbsp;",
+                "title": "REJESTR<br>INSTYTUCJI <br>SZKOLENIOWYCH&nbsp;",
                 "showText": true,
-                "text": "Szkolimy osoby zainteresowane zdobyciem zawodu w zakresie- renowacji mebli i przedmiotów zabytkowych - kurs stacjonarny / w godz. 9-17 czas trwania 8 dni<br>",
+                "text": "Jako jedyna firma w Polsce zajmująca się szkoleniami w renowacji mebli, znajdujemy się w <b>Rejestrze Instytucji Szkoleniowych</b>.<br>Oznacza to, że współpracujemy z <b>Urzędami Pracy w całej Polsce </b>i uczesticzymy w programie aktywizacji bezrobotnych, oraz pomagamy w refundacji naszego kursu z UP.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
