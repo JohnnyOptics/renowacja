@@ -131,7 +131,7 @@
               "text-align": "center"
             },
             "SMALL": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#f97352",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -148,7 +148,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">KURSY SZKOLENIOWE W ZAKRESIE</span> RENOWACJI MEBLI<br>",
+          "title": "<span style=\"font-weight: normal;\">KURSY SZKOLENIOWE W ZAKRESIE</span> RENOWACJI MEBLI<br><br>",
           "meta": "Ludmiła Helman"
         },
         {
@@ -158,7 +158,8 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             },
             "P": {
               "text-align": "center"
@@ -180,7 +181,7 @@
                 "showTitle": true,
                 "title": "<br>KURS <br>RENOWACJI MEBLI",
                 "showText": true,
-                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Te kursy polecamy osobom, które chcą poświęcić więcej czasu na doskonalenie umiejętności technicznych i dopieszczanie swoich projektów.  Projekty – bardziej czasochłonne i skomplikowane niż w przypadku krótszego kursu,  można wybierać z katalogu dla kursów 3-miesięcznych. Podobnie jak w przypadku kursów 2-miesięcznych, istnieje możliwość realizacji własnego pomysłu. Warunkiem jest konsultacja z prowadzącym oraz dopłata za materiały  gdy projekt jest większy gabarytowo lub wymaga użycia innych materiałów niż standardowe projekty z katalogu).&nbsp;</span><br>",
+                "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Te kursy polecamy osobom, które chcą poświęcić więcej czasu na doskonalenie umiejętności technicznych i dopieszczanie swoich projektów.  Projekty – bardziej czasochłonne i skomplikowane niż w przypadku krótszego kursu,  można wybierać z katalogu dla kursów 3-miesięcznych. Podobnie jak w przypadku kursów 2-miesięcznych, istnieje możliwość realizacji własnego pomysłu.&nbsp;</span><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -192,9 +193,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "KURS POZŁOTNICTWA RAM I PRZEDMIOTÓW ZABYTKOWYCH&nbsp;",
+                "title": "KURS POZŁOTNICTWA&nbsp;",
                 "showText": true,
-                "text": "<br>Szkolimy osoby zainteresowane zdobyciem zawodu w zakresie- pozłotnictwa ram i mebli oraz elementów złoconych w przedmiotach zabytkowych. Ponadto prowadzimy zajęcia z zakresu: * nowych i starych technik pozłotnictwa na drewnie rozpoczęcie;<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br>Szkolimy osoby zainteresowane zdobyciem zawodu w zakresie- pozłotnictwa ram i mebli oraz elementów złoconych w przedmiotach zabytkowych. Ponadto prowadzimy zajęcia z zakresu: * nowych i starych technik pozłotnictwa na drewnie rozpoczęcie;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -206,9 +207,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "REJESTR<br>INSTYTUCJI <br>SZKOLENIOWYCH&nbsp;",
+                "title": "REJESTR&nbsp;INSTYTUCJI&nbsp;<br>SZKOLENIOWYCH&nbsp;",
                 "showText": true,
-                "text": "Jako jedyna firma w Polsce zajmująca się szkoleniami w renowacji mebli, znajdujemy się w <b>Rejestrze Instytucji Szkoleniowych</b>.<br>Oznacza to, że współpracujemy z <b>Urzędami Pracy w całej Polsce </b>i uczesticzymy w programie aktywizacji bezrobotnych, oraz pomagamy w refundacji naszego kursu z UP.",
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br>Jako jedyna firma w Polsce zajmująca się szkoleniami w renowacji mebli, znajdujemy się w </span><b style=\"font-size: 1.5rem; line-height: 1.5;\">Rejestrze Instytucji Szkoleniowych</b><span style=\"font-size: 1.5rem; line-height: 1.5;\">.</span><br>Oznacza to, że współpracujemy z <b>Urzędami Pracy w całej Polsce </b>i uczesticzymy w programie aktywizacji bezrobotnych, oraz pomagamy w refundacji naszego kursu z UP.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
