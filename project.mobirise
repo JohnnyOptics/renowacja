@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -144,7 +144,7 @@
           "_anchor": "header3-h",
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -155,22 +155,27 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
+          "_name": "slider",
           "_params": {
             "autoplay": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "timeout": 5,
             "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/istock-000087208411-full-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "REJESTR INSTYTUCJI&nbsp;<div>SZKOLENIOWYCH</div>",
+                "showText": true,
+                "text": "Jako jedyna firma w Polsce zajmująca się szkoleniami w renowacji mebli, znajdujemy się w Rejestrze Instytucji Szkoleniowych.<br>Oznacza to, że współpracujemy z Urzędami Pracy w całej Polsce i uczesticzymy w programie aktywizacji bezrobotnych, oraz pomagamy w refundacji naszego kursu z UP.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/odnawianie-2000x1333.jpg",
@@ -179,47 +184,45 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br>KURS <br>RENOWACJI MEBLI",
+                "title": "KURS&nbsp;<div>RENOWACJI MEBLI</div>",
                 "showText": true,
-                "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Te kursy polecamy osobom, które chcą poświęcić więcej czasu na doskonalenie umiejętności technicznych i dopieszczanie swoich projektów.  Projekty – bardziej czasochłonne i skomplikowane niż w przypadku krótszego kursu,  można wybierać z katalogu dla kursów 3-miesięcznych. Podobnie jak w przypadku kursów 2-miesięcznych, istnieje możliwość realizacji własnego pomysłu.&nbsp;</span><br>",
+                "text": "Te kursy polecamy osobom, które chcą poświęcić więcej czasu na doskonalenie umiejętności technicznych i dopieszczanie swoich projektów. Projekty – bardziej czasochłonne i skomplikowane niż w przypadku krótszego kursu, można wybierać z katalogu dla kursów 3-miesięcznych. Podobnie jak w przypadku kursów 2-miesięcznych, istnieje możliwość realizacji własnego pomysłu. ",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/gold-2000x1515.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "KURS POZŁOTNICTWA&nbsp;",
+                "title": "KURS POZŁOTNICTWA",
                 "showText": true,
-                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br>Szkolimy osoby zainteresowane zdobyciem zawodu w zakresie- pozłotnictwa ram i mebli oraz elementów złoconych w przedmiotach zabytkowych. Ponadto prowadzimy zajęcia z zakresu: * nowych i starych technik pozłotnictwa na drewnie rozpoczęcie;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/istock-000087208411-full-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "REJESTR&nbsp;INSTYTUCJI&nbsp;<br>SZKOLENIOWYCH&nbsp;",
-                "showText": true,
-                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br>Jako jedyna firma w Polsce zajmująca się szkoleniami w renowacji mebli, znajdujemy się w </span><b style=\"font-size: 1.5rem; line-height: 1.5;\">Rejestrze Instytucji Szkoleniowych</b><span style=\"font-size: 1.5rem; line-height: 1.5;\">.</span><br>Oznacza to, że współpracujemy z <b>Urzędami Pracy w całej Polsce </b>i uczesticzymy w programie aktywizacji bezrobotnych, oraz pomagamy w refundacji naszego kursu z UP.",
+                "text": "Szkolimy osoby zainteresowane zdobyciem zawodu w zakresie- pozłotnictwa ram i mebli oraz elementów złoconych w przedmiotach zabytkowych. Ponadto prowadzimy zajęcia z zakresu: * nowych i starych technik pozłotnictwa na drewnie rozpoczęcie;.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
+            "fullScreen": true,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-1",
-          "articleLayout": false
+          "_anchor": "slider-i",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "48px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -233,7 +236,7 @@
           "_name": "header3",
           "_anchor": "header3-2",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true

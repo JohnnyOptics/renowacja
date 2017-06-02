@@ -483,11 +483,14 @@ h6,
   color: #f97352;
   font-family: 'Lora', serif;
 }
-#slider3-1 H2 {
+#slider-i H2 {
+  font-size: 48px;
   text-align: center;
-  font-size: 36px;
 }
-#slider3-1 P {
+#slider-i DIV {
+  text-align: center;
+}
+#slider-i P {
   text-align: center;
 }
 #header3-2 .mbr-section-title,
