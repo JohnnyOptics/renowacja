@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -472,6 +473,15 @@ h6,
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-h SMALL {
+  font-size: 46px;
+  color: #f97352;
+  font-family: 'Lora', serif;
 }
 #slider3-1 H2 {
   text-align: center;
