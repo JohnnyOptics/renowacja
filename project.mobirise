@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -123,13 +123,21 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KURS RENOWACJI MEBLI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-a\">NASZE KURSY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">O NAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">KONTAKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-a\">NASZE KURSY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">O NAS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -184,15 +192,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-1",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -246,6 +246,13 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content7-3",
           "_params": {
             "paddingTop": 1,
@@ -254,14 +261,7 @@
           },
           "text1": "<p></p><h4>Kursy 8 dniowe:</h4><ul><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">21.04.17– 28.04.17 / / 02.06.17 – 09.06.17</span></li><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"> 28.04.17 – 05.05.17 / / 09.06.17 – 16.06.17</span></li><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"> 05.05.17 – 12.05.17 / / 16.06.17 – 23.06.17</span></li><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"> 12.05.17 – 19.05.17 / / 23.06.17 – 30.06.17</span></li><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"> 19.05.17 – 26.05.17 / / 30.06.17 – 07.07.17 </span></li><li><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">26.05.17 – 02.06.17 / / 07.07.17 – 14.07.17</span></li></ul><p></p><p><br></p><p><b>Kursy weekendowe; <br></b></p><p><br></p><ul><li>22.04.17 – 14.05.17 / / 27.05.17 – 18.06.17 </li><li>29.04.17 - 21.05.17 / / 03.03.17 – 25.06.17 </li><li>06.05.17 – 28.05.17 / / 10.06.17 – 02.07.17</li><li> 13.05.17 – 04.06.17 / / 17.06.17 – 09.07.17</li><li> 20.05.17 – 11.06.17 / / 24.06.17 – 16.07.17 <br></li></ul>",
           "text2": "<p><b>Warsztaty 3 dniowe;&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">21.04.17 – 23.04.17 / / 02.06.17 – 04.06.17</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 28.04.17 – 30.04.17 / / 09.06.17 – 11.06.17</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 05.05.17 – 07.05.17 / / 16.06.17 – 18.06.17</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 12.05.17 – 14.05.17 / / 23.06.17 – 25.06.17</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 19.05.17 – 21.05.17 / /&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">30.06.17 – 02.07.17 </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">26.05.17 – 28.05.17 / / 07.07.17 – 09.07.17</span><br></li></ul><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Warsztaty 2 dniowe;&nbsp;</b><br></p><p><br></p><ul><li>22.04.17 – 23.04.17 / / 03.06.17 – 04.06.17 </li><li>29.04.17 – 30.04.17 / / 10.06.17 – 11.06.17 </li><li>06.05.17 – 07.05.17 / / 17.06.17 – 18.06.17 </li><li>13.05.17 – 14.05.17 / / 01.07.17 – 02.07.17 </li><li>20.05.17 – 21.05.17 / / 08.07.17 – 09.07.17 </li><li>27.05.17 – 28.05.17 / / 15.07.17 – 16.07.17</li></ul>",
-          "text3": "<p><b>UWAGA;</b> <br></p><p><br>Rozpoczynamy kurs Stolarz-renowator /weekendowy zajęcia sobota,niedziela/ terminy jak wyżej oraz kurs weekendowy zajęcia co dwa tygodnie w terminach do uzgodnienia Osoby zainteresowane powinny mieć ukończone 18 lat oraz posiadać zdolności manualne.</p><p><br></p><p><br></p>",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px"
-            }
-          }
+          "text3": "<p><b>UWAGA;</b> <br></p><p><br>Rozpoczynamy kurs Stolarz-renowator /weekendowy zajęcia sobota,niedziela/ terminy jak wyżej oraz kurs weekendowy zajęcia co dwa tygodnie w terminach do uzgodnienia Osoby zainteresowane powinny mieć ukończone 18 lat oraz posiadać zdolności manualne.</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -274,7 +274,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Warsztaty weekendowe, 10 godzin, koszt: 340zł</b></p><p><br></p><p>Pierwszego dnia tych warsztatów proponujemy Wam intensywną naukę technik łączenia drewna i trochę teorii, drugiego –  wykonanie projektu indywidualnego, np. stojaka na warzywa, półki czy taboretu.</p>"
+          "text": "<p><b>Warsztaty weekendowe, 10 godzin, koszt: 600 zł</b></p><p><br></p><p>Pierwszego dnia tych warsztatów proponujemy Wam intensywną naukę technik łączenia drewna i trochę teorii, drugiego –  wykonanie projektu indywidualnego, np. stojaka na warzywa, półki czy taboretu.</p>"
         },
         {
           "_tags": [
@@ -287,7 +287,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Warsztaty, 3 dniowe, koszt: 790zł</b></p><p><br></p><p>Na tym kursie będziecie mieli okazję przećwiczyć różne techniki pracy z drewnem, zapoznacie się także z obsługą narzędzi tradycyjnych i elektronarzędzi. W ramach kursu wybierzecie i samodzielnie wykonacie jeden z projektów z naszego katalogu dla kursów 2-miesięcznych. Realizacja projektów z listy jest w cenie zajęć. Można realizować własne projekty, o ile są wykonalne czasowo i mają podobny poziom trudności. Konsultujemy je indywidualnie. Przy projektach o większych gabarytach lub zrobionych z drewna innego niż sosnowe pobieramy dopłatę za materiały.</p>"
+          "text": "<p><b>Warsztaty, 3 dniowe, koszt: 1500 zł</b></p><p><br></p><p>Na tym kursie będziecie mieli okazję przećwiczyć różne techniki pracy z drewnem, zapoznacie się także z obsługą narzędzi tradycyjnych i elektronarzędzi. W ramach kursu wybierzecie i samodzielnie wykonacie jeden z projektów z naszego katalogu dla kursów 2-miesięcznych. Realizacja projektów z listy jest w cenie zajęć. Można realizować własne projekty, o ile są wykonalne czasowo i mają podobny poziom trudności. Konsultujemy je indywidualnie. Przy projektach o większych gabarytach lub zrobionych z drewna innego niż sosnowe pobieramy dopłatę za materiały.</p>"
         },
         {
           "_tags": [
@@ -485,6 +485,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pila-2000x1479.png",
@@ -494,14 +498,67 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#28324e",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "OPINIE UCZESTNIKÓW NASZYCH KURSÓW",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "FORMULARZ KONTAKTOWY",
+          "subtitle": "Jeśli jesteś zainteresowany którymś z naszych kursów, napisz do nas oraz podaj swój numer kontaktowy.",
+          "form": {
+            "action": "an.icon.pictures@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         }
       ]
     }
